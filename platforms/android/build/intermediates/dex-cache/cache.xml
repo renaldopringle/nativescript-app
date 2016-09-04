@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-23.4.0_6eb38e1270238acbbffd65d998f6390d9aa5bfdc.jar" />
+    </item>
+    <item
+        jar="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-23.4.0_8283f65e1d49627fc981216b018270b8de5121cc.jar" />
+    </item>
+    <item
+        jar="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="89f0a1f737477abeda61c0072529d5158b1ebe81">
+        <dex dex="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_a5e9810e878a917a1c12d6c200747da02e368ff7.jar" />
+    </item>
+    <item
+        jar="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-23.4.0_cb4a7038af3ac9a055edb6d9751a264f1fa24ffd.jar" />
+    </item>
+    <item
+        jar="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/exploded-aar/venlist/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="60fb0eb96d073a4a1d71095f8e16dbb6ff73681c">
+        <dex dex="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/pre-dexed/F0/debug/venlist-runtime-unspecified_59802b1eece61905e0794a10247a64f592ad9289.jar" />
+    </item>
+    <item
+        jar="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-23.4.0_48991ab034b9c2ea6898fac9ec9f7430475bc10c.jar" />
+    </item>
+    <item
+        jar="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/exploded-aar/venlist/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="736a019270b8fb0fda4532f90fc9d1a7458022c0">
+        <dex dex="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_663ef0fcca92a72251ecbe9256169f312d8b0316.jar" />
+    </item>
+    <item
+        jar="/home/renaldo/Documents/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-23.4.0_323c0c8cd866831c85fc282cc968a83ae6e8e847.jar" />
+    </item>
+    <item
+        jar="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/renaldo/Documents/venlist/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-23.4.0_def3a468b802d2a66fb8d9b2885a39025c83a049.jar" />
+    </item>
+
+</items>

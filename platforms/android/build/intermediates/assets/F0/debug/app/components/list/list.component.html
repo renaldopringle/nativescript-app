@@ -1,0 +1,10 @@
+<ActionBar title="Drug List">
+    <ActionItem text="Create" (tap)="create()"></ActionItem>
+</ActionBar>
+<GridLayout>
+    <ListView [items]="drugList">
+        <template let-item="item">
+            <Label [text]="item.name + ' ' + item.category"></Label>
+        </template>
+    </ListView>
+</GridLayout>
